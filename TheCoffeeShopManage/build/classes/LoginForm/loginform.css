@@ -1,0 +1,36 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+#imageImport    {
+    -fx-effect: dropshadow(three-pass-box, rgb(0,0,0), 15, 0, 0, 0);
+}
+
+#boxLogin{
+    -fx-effect: dropshadow(three-pass-box, rgb(0,0,0), 15, 0, 0, 0);
+}
+
+#btnLogin{
+    -fx-background-color: #F8AC1B;
+    -fx-background-radius: 3;
+}
+
+ #btnLogin:hover {
+    -fx-background-color: #f8d71b;
+    -fx-cursor: hand;
+}
+
+#btnForgot{
+    -fx-text-fill: #999;
+    -fx-background-color: transparent;
+}
+
+#btnForgot:hover {
+    -fx-text-fill: #333;
+    -fx-cursor: hand;
+    
+}
+
+#imageThem{
+    -fx-effect: dropshadow(three-pass-box, rgb(0,0,0), 15, 0, 0, 0);
+}
